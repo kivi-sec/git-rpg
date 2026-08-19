@@ -1,0 +1,5 @@
+__pycharm__/
+*.pyc
+.env
+venv/
+
