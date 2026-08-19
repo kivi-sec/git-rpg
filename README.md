@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Git RPG - Main + Conflict Test
 I am ready
 Idk
