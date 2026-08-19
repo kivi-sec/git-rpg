@@ -1,4 +1,5 @@
-# Git RPG - Main Branch
+<<<<<<< HEAD
+# Git RPG - Main + Conflict Test
 I am ready
 Idk
 Test text
